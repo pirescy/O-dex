@@ -2,7 +2,7 @@
     "general": {
         "domain": "https://o-dex.com",
         "title": "O-dex",
-        "feeRecipient": "0xdA4d80634D681Fd6adc53064175F71E7A1742826",
+        "feeRecipient": "0x",
         "feePercentage": "0.005",
         "icon": "https://imgur.com/a/yW7fH0X"
     },
