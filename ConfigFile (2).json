@@ -1,0 +1,1067 @@
+{
+    "general": {
+        "domain": "https://o-dex.com",
+        "title": "O-dex",
+        "feeRecipient": "0xdA4d80634D681Fd6adc53064175F71E7A1742826",
+        "feePercentage": "0.005",
+        "icon": "https://imgur.com/a/yW7fH0X"
+    },
+    "tokens": [
+        {
+            "mainnetAddress": "0xa74476443119a942de498590fe1f2454d7d4ac0d",
+            "name": "Golem Network Token",
+            "symbol": "gnt",
+            "decimals": 18,
+            "website": "https://golem.network/",
+            "c_id": "golem",
+            "icon": "https://assets.coingecko.com/coins/images/542/thumb/golem_token.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0xa74476443119a942de498590fe1f2454d7d4ac0d"
+            }
+        },
+        {
+            "mainnetAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+            "name": "Matic Token",
+            "symbol": "matic",
+            "decimals": 18,
+            "website": "https://matic.network",
+            "c_id": "matic-network",
+            "icon": "https://assets.coingecko.com/coins/images/4713/thumb/Matic.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+            }
+        },
+        {
+            "mainnetAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+            "name": "Decentraland MANA",
+            "symbol": "mana",
+            "decimals": 18,
+            "website": "https://decentraland.org/",
+            "c_id": "decentraland",
+            "icon": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+            }
+        },
+        {
+            "mainnetAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+            "name": "Enjin Coin",
+            "symbol": "enj",
+            "decimals": 18,
+            "website": "https://enjin.io/",
+            "c_id": "enjincoin",
+            "icon": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png",
+            "addresses": {
+                "1": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+            },
+            "displayDecimals": "2"
+        },
+        {
+            "mainnetAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+            "name": "yearn.finance",
+            "symbol": "yfi",
+            "decimals": 18,
+            "website": "https://yearn.finance",
+            "c_id": "yearn-finance",
+            "icon": "https://assets.coingecko.com/coins/images/11849/thumb/yearn-finance.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+            }
+        },
+        {
+            "mainnetAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "name": "Compound",
+            "symbol": "comp",
+            "decimals": 18,
+            "website": "https://compound.finance/governance/comp",
+            "c_id": "compound-governance-token",
+            "icon": "https://assets.coingecko.com/coins/images/10775/thumb/COMP.png",
+            "addresses": {
+                "1": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+            },
+            "displayDecimals": "2"
+        },
+        {
+            "decimals": 8,
+            "symbol": "0xbtc",
+            "name": "0xBitcoin",
+            "primaryColor": "#ff7423",
+            "icon": "assets/icons/zxb.svg",
+            "addresses": {
+                "1": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31"
+            },
+            "displayDecimals": 2,
+            "id": "0xbtc",
+            "c_id": "oxbitcoin",
+            "description": "Pure Mined Currency For Ethereum Applications",
+            "website": "https://0xbitcoin.org",
+            "mainnetAddress": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31"
+        },
+        {
+            "symbol": "zrx",
+            "name": "0x Protocol Token",
+            "primaryColor": "#333333",
+            "icon": "assets/icons/zrx.svg",
+            "addresses": {
+                "1": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+            },
+            "decimals": 18,
+            "displayDecimals": 2,
+            "c_id": "0x",
+            "website": "https://0x.org",
+            "description": "0x is an open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain.",
+            "mainnetAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+        },
+        {
+            "decimals": 18,
+            "displayDecimals": 2,
+            "symbol": "bat",
+            "name": "Basic Attention Token",
+            "icon": "assets/icons/bat.svg",
+            "primaryColor": "#9e1f63",
+            "addresses": {
+                "1": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+            },
+            "id": "basic-attention-token",
+            "website": "https://basicattentiontoken.org/",
+            "description": "INTRODUCING BLOCKCHAIN-BASED DIGITAL ADVERTISING",
+            "c_id": "basic-attention-token",
+            "mainnetAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+        },
+        {
+            "mainnetAddress": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+            "name": "OMGToken",
+            "symbol": "omg",
+            "decimals": 18,
+            "website": "https://omg.network/",
+            "c_id": "omisego",
+            "icon": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
+            }
+        },
+        {
+            "decimals": 18,
+            "displayDecimals": 2,
+            "symbol": "mkr",
+            "name": "Maker",
+            "primaryColor": "#68CCBB",
+            "icon": "assets/icons/mkr.svg",
+            "addresses": {
+                "1": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+            },
+            "website": "https://makerdao.com/",
+            "c_id": "maker",
+            "description": "Maker is comprised of a decentralized stablecoin, collateral loans, and community governance.",
+            "id": "maker",
+            "mainnetAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+        },
+        {
+            "mainnetAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "name": "Tether USD",
+            "symbol": "usdt",
+            "decimals": 6,
+            "website": "https://tether.to/",
+            "c_id": "tether",
+            "icon": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+            }
+        },
+        {
+            "mainnetAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+            "name": "CRO",
+            "symbol": "cro",
+            "decimals": 8,
+            "website": "https://www.crypto.com/en/chain",
+            "c_id": "crypto-com-chain",
+            "icon": "https://assets.coingecko.com/coins/images/7310/thumb/cypto.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+            }
+        },
+        {
+            "mainnetAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+            "name": "ChainLink Token",
+            "symbol": "link",
+            "decimals": 18,
+            "website": "https://chain.link/",
+            "c_id": "chainlink",
+            "icon": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0x514910771af9ca656af840dff83e8264ecf986ca"
+            }
+        },
+        {
+            "mainnetAddress": "0x7785f5b0b0246cd66791b455f7da3369523ec664",
+            "name": "NEW",
+            "symbol": "new",
+            "decimals": 18,
+            "displayDecimals": "2",
+            "primaryColor": "#0a9bf5",
+            "addresses": {
+                "1": "0x7785f5b0b0246cd66791b455f7da3369523ec664"
+            },
+            "website": "https://o-dex.com"
+        },
+        {
+            "mainnetAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai Stablecoin",
+            "symbol": "dai",
+            "decimals": 18,
+            "website": "https://makerdao.com/",
+            "c_id": "dai",
+            "icon": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png",
+            "displayDecimals": "2",
+            "addresses": {
+                "1": "0x6b175474e89094c44da98b954eedeac495271d0f"
+            }
+        },
+        {
+            "symbol": "weth",
+            "name": "Wrapped Ether",
+            "primaryColor": "#3333ff",
+            "icon": "assets/icons/weth.svg",
+            "addresses": {
+                "1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+            },
+            "decimals": 18,
+            "displayDecimals": 3,
+            "id": "ethereum",
+            "c_id": "ethereum",
+            "website": "https://weth.io",
+            "description": "wETH is 'wrapped ETH'",
+            "mainnetAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        }
+    ],
+    "pairs": [
+        {
+            "base": "link",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "link",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "link",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "cro",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "cro",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "cro",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "dai",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "dai",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "new",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "new",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "usdt",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "usdt",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "usdt",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mkr",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": "8",
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mkr",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mkr",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "omg",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "omg",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "omg",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "bat",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "bat",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "bat",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "zrx",
+            "quote": "weth",
+            "config": {
+                "basePrecision": "2",
+                "pricePrecision": "8",
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "zrx",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "zrx",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "0xbtc",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "0xbtc",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "0xbtc",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "comp",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "comp",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "comp",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "yfi",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "yfi",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "yfi",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "enj",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "enj",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "enj",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mana",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mana",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "mana",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "gnt",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "gnt",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "gnt",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "matic",
+            "quote": "weth",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "matic",
+            "quote": "dai",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        },
+        {
+            "base": "matic",
+            "quote": "new",
+            "config": {
+                "basePrecision": 2,
+                "pricePrecision": 8,
+                "minAmount": "0"
+            }
+        }
+    ],
+    "marketFilters": [
+        {
+            "text": "ETH",
+            "value": "weth"
+        },
+        {
+            "value": "dai",
+            "text": "DAI"
+        },
+        {
+            "value": "new",
+            "text": "NEW"
+        }
+    ],
+    "theme_name": "LIGHT_THEME",
+    "theme": {
+        "componentsTheme": {
+            "background": "#f4f3f4",
+            "backgroundERC721": "#F9FAFC",
+            "borderColor": "#dedede",
+            "boxShadow": "0 10px 10px rgba(0, 0, 0, 0.1)",
+            "buttonBuyBackgroundColor": "#3CB34F",
+            "buttonCollectibleSellBackgroundColor": "#00AE99",
+            "buttonConvertBackgroundColor": "#fff",
+            "buttonConvertBorderColor": "#dedede",
+            "buttonConvertTextColor": "#474747",
+            "buttonErrorBackgroundColor": "#FF6534",
+            "buttonPrimaryBackgroundColor": "#002979",
+            "buttonQuaternaryBackgroundColor": "#00AE99",
+            "buttonSecondaryBackgroundColor": "#474747",
+            "buttonSellBackgroundColor": "#FF6534",
+            "buttonTertiaryBackgroundColor": "#F6851B",
+            "buttonTextColor": "#fff",
+            "buttonPortisBackgroundColor": "#6db2d8",
+            "buttonFortmaticBackgroundColor": "#1e1c29",
+            "buttonTorusBackgroundColor": "#3a96ff",
+            "cardImageBackgroundColor": "#EBF0F5",
+            "cardBackgroundColor": "#fff",
+            "cardHeaderBackgroundColor": "#fff",
+            "cardBorderColor": "#dedede",
+            "cardTitleColor": "#000",
+            "cardTitleOwnerColor": "#3CB34F",
+            "cardTitleFontSize": "13px",
+            "chartColor": "#00AE99",
+            "darkBlue": "#002979",
+            "darkGray": "#474747",
+            "darkerGray": "#666",
+            "dropdownBackgroundColor": "#fff",
+            "dropdownBorderColor": "#dedede",
+            "dropdownTextColor": "#000",
+            "errorButtonBackground": "#FF6534",
+            "errorCardBackground": "#FAF4EF",
+            "errorCardBorder": "#F39E4B",
+            "errorCardText": "#F68C24",
+            "ethBoxActiveColor": "#002979",
+            "ethBoxBorderColor": "#dedede",
+            "ethSetMinEthButtonBorderColor": "#000",
+            "ethSliderThumbBorderColor": "rgba(0, 0, 0, 0.142)",
+            "ethSliderThumbColor": "#fff",
+            "gray": "#808080",
+            "green": "#3CB34F",
+            "iconLockedColor": "#000",
+            "iconUnlockedColor": "#C4C4C4",
+            "inactiveTabBackgroundColor": "#f9f9f9",
+            "lightGray": "#B9B9B9",
+            "logoERC20Color": "#0029FF",
+            "logoERC20TextColor": "#000",
+            "logoERC721Color": "#00AE99",
+            "logoERC721TextColor": "#000",
+            "marketsSearchFieldBackgroundColor": "#eaeaea",
+            "marketsSearchFieldBorderColor": "#dedede",
+            "marketsSearchFieldTextColor": "#333",
+            "modalSearchFieldBackgroundColor": "#fff",
+            "modalSearchFieldBorderColor": "#fff",
+            "modalSearchFieldPlaceholderColor": "#DEDEDE",
+            "modalSearchFieldTextColor": "#000",
+            "myWalletLinkColor": "#333333",
+            "notificationActive": "#F8F8F8",
+            "notificationIconColor": "#474747",
+            "notificationsBadgeColor": "#ff6534",
+            "numberDecimalsColor": "#dedede",
+            "red": "#FF6534",
+            "rowActive": "#FBFDFF",
+            "rowOrderActive": "#dedede",
+            "simplifiedTextBoxColor": "#F9F9F9",
+            "stepsProgressCheckMarkColor": "#fff",
+            "stepsProgressStartingDotColor": "#000",
+            "stepsProgressStepLineColor": "rgba(0, 0, 0, 0.1)",
+            "stepsProgressStepLineProgressColor": "#000",
+            "stepsProgressStepTitleColor": "#e6e6e6",
+            "stepsProgressStepTitleColorActive": "#000",
+            "tableBorderColor": "#dedede",
+            "tdColor": "#000",
+            "tdFontSize": "12px",
+            "textColorCommon": "#000",
+            "textDark": "#666",
+            "textInputBackgroundColor": "#F9F9F9",
+            "textInputBorderColor": "#dedede",
+            "textInputTextColor": "#000",
+            "textLight": "#999",
+            "textLighter": "#666",
+            "thColor": "#B9B9B9",
+            "thFontSize": "12px",
+            "tooltipBackgroundColor": "#222",
+            "tooltipTextColor": "#fff",
+            "topbarBackgroundColor": "#fff",
+            "topbarBorderColor": "#dedede",
+            "topbarSeparatorColor": "#dedede",
+            "orderbookTDFontSize": "11px",
+            "orderbookTHFontSize": "11px",
+            "marketFillsTDFontSize": "11px",
+            "marketFillsTHFontSize": "11px",
+            "marketListTHFontSize": "11px",
+            "marketListTDFontSize": "11px",
+            "marketStatsTHFontSize": "11px",
+            "marketStatsTDFontSize": "11px",
+            "marketDetailsTHFontSize": "12px",
+            "marketDetailsTDFontSize": "12px"
+        },
+        "modalTheme": {
+            "content": {
+                "backgroundColor": "#fff",
+                "borderColor": "#dedede",
+                "bottom": "auto",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexGrow": 0,
+                "left": "auto",
+                "maxHeight": "90%",
+                "minWidth": "350px",
+                "overflow": "hidden",
+                "padding": "16px",
+                "position": "relative",
+                "right": "auto",
+                "top": "auto"
+            },
+            "overlay": {
+                "alignItems": "center",
+                "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                "display": "flex",
+                "justifyContent": "center",
+                "zIndex": 12345
+            }
+        }
+    },
+    "theme_dark": {
+        "componentsTheme": {
+            "background": "#000",
+            "backgroundERC721": "#000",
+            "borderColor": "#5A5A5A",
+            "boxShadow": "0 10px 10px rgba(0, 0, 0, 0.1)",
+            "buttonBuyBackgroundColor": "#3CB34F",
+            "buttonCollectibleSellBackgroundColor": "#00AE99",
+            "buttonConvertBackgroundColor": "#343434",
+            "buttonConvertBorderColor": "#000",
+            "buttonConvertTextColor": "#fff",
+            "buttonErrorBackgroundColor": "#FF6534",
+            "buttonPrimaryBackgroundColor": "#002979",
+            "buttonQuaternaryBackgroundColor": "#00AE99",
+            "buttonSecondaryBackgroundColor": "#3CB34F",
+            "buttonSellBackgroundColor": "#FF6534",
+            "buttonTertiaryBackgroundColor": "#F6851B",
+            "buttonPortisBackgroundColor": "#6db2d8",
+            "buttonFortmaticBackgroundColor": "#1e1c29",
+            "buttonTorusBackgroundColor": "#3a96ff",
+            "buttonTextColor": "#fff",
+            "cardImageBackgroundColor": "#EBF0F5",
+            "cardBackgroundColor": "#02112c",
+            "cardHeaderBackgroundColor": "#081b3d",
+            "cardBorderColor": "#000",
+            "cardTitleColor": "#fff",
+            "cardTitleOwnerColor": "#3CB34F",
+            "cardTitleFontSize": "13px",
+            "chartColor": "#00AE99",
+            "darkBlue": "#002979",
+            "darkGray": "#474747",
+            "darkerGray": "#666",
+            "dropdownBackgroundColor": "#02112c",
+            "dropdownBorderColor": "#000",
+            "dropdownTextColor": "#fff",
+            "errorButtonBackground": "#FF6534",
+            "errorCardBackground": "#FAF4EF",
+            "errorCardBorder": "#F39E4B",
+            "errorCardText": "#F68C24",
+            "ethBoxActiveColor": "#00AE99",
+            "ethBoxBorderColor": "#5A5A5A",
+            "ethSetMinEthButtonBorderColor": "#999",
+            "ethSliderThumbBorderColor": "#5A5A5A",
+            "ethSliderThumbColor": "#202123",
+            "gray": "#808080",
+            "green": "#3CB34F",
+            "iconLockedColor": "#fff",
+            "iconUnlockedColor": "#5A5A5A",
+            "inactiveTabBackgroundColor": "#11264d",
+            "lightGray": "#B9B9B9",
+            "logoERC20Color": "#fff",
+            "logoERC20TextColor": "#fff",
+            "logoERC721Color": "#00AE99",
+            "logoERC721TextColor": "#fff",
+            "marketsSearchFieldBackgroundColor": "#11264d",
+            "marketsSearchFieldBorderColor": "#404041",
+            "marketsSearchFieldTextColor": "#BFBFBF",
+            "modalSearchFieldBackgroundColor": "#fff",
+            "modalSearchFieldBorderColor": "#fff",
+            "modalSearchFieldPlaceholderColor": "#DEDEDE",
+            "modalSearchFieldTextColor": "#000",
+            "myWalletLinkColor": "#fff",
+            "notificationActive": "#F8F8F8",
+            "notificationIconColor": "#fff",
+            "notificationsBadgeColor": "#ff6534",
+            "numberDecimalsColor": "#5A5A5A",
+            "red": "#FF6534",
+            "rowActive": "#11264d",
+            "rowOrderActive": "#5A5A5A",
+            "simplifiedTextBoxColor": "#1B1B1B",
+            "stepsProgressCheckMarkColor": "#202123",
+            "stepsProgressStartingDotColor": "#fff",
+            "stepsProgressStepLineColor": "#5A5A5A",
+            "stepsProgressStepLineProgressColor": "#fff",
+            "stepsProgressStepTitleColor": "#5A5A5A",
+            "stepsProgressStepTitleColorActive": "#fff",
+            "tableBorderColor": "#000",
+            "tdColor": "#fff",
+            "textColorCommon": "#fff",
+            "textDark": "#666",
+            "textInputBackgroundColor": "#11264d",
+            "textInputBorderColor": "#000",
+            "textInputTextColor": "#fff",
+            "textLight": "#999",
+            "textLighter": "#666",
+            "thColor": "#B9B9B9",
+            "tooltipBackgroundColor": "#000",
+            "tooltipTextColor": "#fff",
+            "topbarBackgroundColor": "#02112c",
+            "topbarBorderColor": "#000",
+            "topbarSeparatorColor": "#5A5A5A",
+            "tdFontSize": "12px",
+            "thFontSize": "12px",
+            "orderbookTDFontSize": "11px",
+            "orderbookTHFontSize": "11px",
+            "marketFillsTDFontSize": "11px",
+            "marketFillsTHFontSize": "11px",
+            "marketListTHFontSize": "11px",
+            "marketListTDFontSize": "11px",
+            "marketStatsTHFontSize": "11px",
+            "marketStatsTDFontSize": "11px",
+            "marketDetailsTHFontSize": "12px",
+            "marketDetailsTDFontSize": "12px"
+        },
+        "modalTheme": {
+            "content": {
+                "backgroundColor": "#02112c",
+                "borderColor": "#000",
+                "bottom": "auto",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexGrow": 0,
+                "left": "auto",
+                "maxHeight": "90%",
+                "minWidth": "340px",
+                "overflow": "hidden",
+                "padding": "16px",
+                "position": "relative",
+                "right": "auto",
+                "top": "auto"
+            },
+            "overlay": {
+                "alignItems": "center",
+                "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                "display": "flex",
+                "justifyContent": "center",
+                "zIndex": 12345
+            }
+        }
+    },
+    "theme_light": {
+        "componentsTheme": {
+            "background": "#f4f3f4",
+            "backgroundERC721": "#F9FAFC",
+            "borderColor": "#dedede",
+            "boxShadow": "0 10px 10px rgba(0, 0, 0, 0.1)",
+            "buttonBuyBackgroundColor": "#3CB34F",
+            "buttonCollectibleSellBackgroundColor": "#00AE99",
+            "buttonConvertBackgroundColor": "#fff",
+            "buttonConvertBorderColor": "#dedede",
+            "buttonConvertTextColor": "#474747",
+            "buttonErrorBackgroundColor": "#FF6534",
+            "buttonPrimaryBackgroundColor": "#002979",
+            "buttonQuaternaryBackgroundColor": "#00AE99",
+            "buttonSecondaryBackgroundColor": "#474747",
+            "buttonSellBackgroundColor": "#FF6534",
+            "buttonTertiaryBackgroundColor": "#F6851B",
+            "buttonTextColor": "#fff",
+            "buttonPortisBackgroundColor": "#6db2d8",
+            "buttonFortmaticBackgroundColor": "#1e1c29",
+            "buttonTorusBackgroundColor": "#3a96ff",
+            "cardImageBackgroundColor": "#EBF0F5",
+            "cardBackgroundColor": "#fff",
+            "cardHeaderBackgroundColor": "#fff",
+            "cardBorderColor": "#dedede",
+            "cardTitleColor": "#000",
+            "cardTitleOwnerColor": "#3CB34F",
+            "cardTitleFontSize": "13px",
+            "chartColor": "#00AE99",
+            "darkBlue": "#002979",
+            "darkGray": "#474747",
+            "darkerGray": "#666",
+            "dropdownBackgroundColor": "#fff",
+            "dropdownBorderColor": "#dedede",
+            "dropdownTextColor": "#000",
+            "errorButtonBackground": "#FF6534",
+            "errorCardBackground": "#FAF4EF",
+            "errorCardBorder": "#F39E4B",
+            "errorCardText": "#F68C24",
+            "ethBoxActiveColor": "#002979",
+            "ethBoxBorderColor": "#dedede",
+            "ethSetMinEthButtonBorderColor": "#000",
+            "ethSliderThumbBorderColor": "rgba(0, 0, 0, 0.142)",
+            "ethSliderThumbColor": "#fff",
+            "gray": "#808080",
+            "green": "#3CB34F",
+            "iconLockedColor": "#000",
+            "iconUnlockedColor": "#C4C4C4",
+            "inactiveTabBackgroundColor": "#f9f9f9",
+            "lightGray": "#B9B9B9",
+            "logoERC20Color": "#0029FF",
+            "logoERC20TextColor": "#000",
+            "logoERC721Color": "#00AE99",
+            "logoERC721TextColor": "#000",
+            "marketsSearchFieldBackgroundColor": "#eaeaea",
+            "marketsSearchFieldBorderColor": "#dedede",
+            "marketsSearchFieldTextColor": "#333",
+            "modalSearchFieldBackgroundColor": "#fff",
+            "modalSearchFieldBorderColor": "#fff",
+            "modalSearchFieldPlaceholderColor": "#DEDEDE",
+            "modalSearchFieldTextColor": "#000",
+            "myWalletLinkColor": "#333333",
+            "notificationActive": "#F8F8F8",
+            "notificationIconColor": "#474747",
+            "notificationsBadgeColor": "#ff6534",
+            "numberDecimalsColor": "#dedede",
+            "red": "#FF6534",
+            "rowActive": "#FBFDFF",
+            "rowOrderActive": "#dedede",
+            "simplifiedTextBoxColor": "#F9F9F9",
+            "stepsProgressCheckMarkColor": "#fff",
+            "stepsProgressStartingDotColor": "#000",
+            "stepsProgressStepLineColor": "rgba(0, 0, 0, 0.1)",
+            "stepsProgressStepLineProgressColor": "#000",
+            "stepsProgressStepTitleColor": "#e6e6e6",
+            "stepsProgressStepTitleColorActive": "#000",
+            "tableBorderColor": "#dedede",
+            "tdColor": "#000",
+            "tdFontSize": "12px",
+            "textColorCommon": "#000",
+            "textDark": "#666",
+            "textInputBackgroundColor": "#F9F9F9",
+            "textInputBorderColor": "#dedede",
+            "textInputTextColor": "#000",
+            "textLight": "#999",
+            "textLighter": "#666",
+            "thColor": "#B9B9B9",
+            "thFontSize": "12px",
+            "tooltipBackgroundColor": "#222",
+            "tooltipTextColor": "#fff",
+            "topbarBackgroundColor": "#fff",
+            "topbarBorderColor": "#dedede",
+            "topbarSeparatorColor": "#dedede",
+            "orderbookTDFontSize": "11px",
+            "orderbookTHFontSize": "11px",
+            "marketFillsTDFontSize": "11px",
+            "marketFillsTHFontSize": "11px",
+            "marketListTHFontSize": "11px",
+            "marketListTDFontSize": "11px",
+            "marketStatsTHFontSize": "11px",
+            "marketStatsTDFontSize": "11px",
+            "marketDetailsTHFontSize": "12px",
+            "marketDetailsTDFontSize": "12px"
+        },
+        "modalTheme": {
+            "content": {
+                "backgroundColor": "#fff",
+                "borderColor": "#dedede",
+                "bottom": "auto",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexGrow": 0,
+                "left": "auto",
+                "maxHeight": "90%",
+                "minWidth": "350px",
+                "overflow": "hidden",
+                "padding": "16px",
+                "position": "relative",
+                "right": "auto",
+                "top": "auto"
+            },
+            "overlay": {
+                "alignItems": "center",
+                "backgroundColor": "rgba(0, 0, 0, 0.4)",
+                "display": "flex",
+                "justifyContent": "center",
+                "zIndex": 12345
+            }
+        }
+    },
+    "layout": "{\"lg\":[{\"w\":2,\"h\":56,\"x\":0,\"y\":0,\"i\":\"a\"},{\"w\":6,\"h\":40,\"x\":2,\"y\":0,\"i\":\"b\"},{\"w\":4,\"h\":26,\"x\":8,\"y\":30,\"i\":\"d\"},{\"w\":2,\"h\":30,\"x\":8,\"y\":0,\"i\":\"e\"},{\"w\":6,\"h\":16,\"x\":2,\"y\":37,\"i\":\"f\"},{\"w\":2,\"h\":30,\"x\":10,\"y\":0,\"i\":\"g\"}]}"
+}
